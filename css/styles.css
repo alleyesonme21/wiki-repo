@@ -22,6 +22,10 @@ html, body {
     /* left: 210px; */
     background-color: white;
     padding: 20px;
+    border: 1px solid #a7d7f9;
+    border-right-width: 0;
+    margin-top: 80px;
+    height: 90vh;
 
     
 }
